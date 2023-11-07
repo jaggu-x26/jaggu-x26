@@ -1,13 +1,14 @@
+![mybanner](https://github.com/jaggu-x26/jaggu-x26/blob/main/banner-1.jpg)
 <h1 align="center">Hi 👋, I'm Jagriti Rai</h1>
 <h3 align="center">A passionate data analyst enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Power BI, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://jagritirai223.github.io/Portfolio-Website/](https://jagritirai223.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at <a href="https://jaggu-x26.github.io/Portfolio-Website/">here</a>
 
 - 📫 How to reach me **raijagriti223@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HOBuoM8p1GpF9GrhXFyAzXuud2kTPNCj/view?usp=sharing](https://drive.google.com/file/d/1HOBuoM8p1GpF9GrhXFyAzXuud2kTPNCj/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HOBuoM8p1GpF9GrhXFyAzXuud2kTPNCj/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
