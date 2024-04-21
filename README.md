@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Power BI, Tableau**
 
-- 👨‍💻 All of my projects are available at <a href="https://jaggu-x26.github.io/Portfolio-Website/">my portfolio</a>
+- 👨‍💻 All of my projects are available at my portfolio
 
 - 📫 How to reach me: **raijagriti223@gmail.com**
 
